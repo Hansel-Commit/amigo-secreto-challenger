@@ -1,9 +1,9 @@
 :root {
-    --color-primary: #4B69FD;
+    --color-primary: #FF204E;
     --color-secondary: #FFF9EB;
     --color-tertiary: #C4C4C4;
-    --color-button: #fe652b;
-    --color-button-hover: #e55720;
+    --color-button: #A0153E;
+    --color-button-hover: #FF204E;
     --color-text: #444444;
     --color-white: #FFFFFF;
 }
@@ -136,7 +136,7 @@ ul {
 
 .result-list {
     margin-top: 15px;
-    color: #05DF05;
+    color: #df1616;
     font-size: 22px;
     font-weight: bold;
     text-align: center;
